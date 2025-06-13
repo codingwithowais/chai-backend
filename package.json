@@ -1,0 +1,20 @@
+{
+  "name": "chai-backend-project",
+  "version": "1.0.0",
+  "description": "A backend project from chai aur backend bi hitesh chaudhary on yt",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai",
+    "backend"
+  ],
+  "author": "Owais",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
